@@ -142,5 +142,3 @@ The project includes:
 - Develop interactive dashboards (Plotly / Power BI)  
 
 ---
-
-## 📁 Project Structure
